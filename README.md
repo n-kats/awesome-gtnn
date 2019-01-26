@@ -1,4 +1,4 @@
-# awesome-tnn
+# awesome-GTNN
 Lists of awesome resources for geometric or topological neural network
 
 ## theme
@@ -21,6 +21,9 @@ Lists of awesome resources for geometric or topological neural network
 * https://github.com/matenure/FastGCN
 
 ## automatic model
+* https://github.com/melodyguan/enas
+* https://github.com/renqianluo/NAO
+* https://github.com/quark0/darts
 
 ## papers
 * [GCN](https://arxiv.org/abs/1609.02907)
@@ -58,7 +61,13 @@ Lists of awesome resources for geometric or topological neural network
 * [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434)
 * [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596)
 * [Neural 3D Mesh Renderer](https://arxiv.org/abs/1711.07566)
-
+* [NAS](https://arxiv.org/abs/1707.07012)
+* [PNAS](https://arxiv.org/abs/1712.00559)
+* [ENAS](https://arxiv.org/abs/1802.03268)
+* [EPNAS](https://arxiv.org/abs/1808.00391)
+* [NAONet](https://arxiv.org/abs/1808.07233)
+* [DARTS](https://arxiv.org/abs/1806.09055)
+* [GHN](https://arxiv.org/abs/1810.05749)
 
 ## experiments
 
@@ -79,3 +88,4 @@ Lists of awesome resources for geometric or topological neural network
 * https://www.slideshare.net/shotarosano5/automl-in-neurips-2018
 * https://medium.com/programming-soda/graph-neural-network%E3%81%AE%E5%87%A6%E7%90%86%E3%81%A8%E5%8A%B9%E6%9E%9C%E3%82%92%E7%90%86%E8%A7%A3%E3%81%99%E3%82%8B-how-powerful-are-graph-neural-networks-a26ee9245cce 
 * https://qiita.com/no_more_syakai/items/f1358e33e8376ae1766d
+* https://www.slideshare.net/emakryo/neural-networks-for-graph-data-neurips2018pfn
