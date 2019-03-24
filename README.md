@@ -19,6 +19,10 @@ Lists of awesome resources for geometric or topological neural network
 
 ### others
 * https://github.com/matenure/FastGCN
+* https://github.com/ethanfetaya/NRI
+* https://github.com/Eilene/GWNN
+* https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork
+* https://github.com/tkipf/gcn
 
 ## automatic model
 * https://github.com/melodyguan/enas
@@ -42,6 +46,7 @@ Lists of awesome resources for geometric or topological neural network
 * [ARMA](https://arxiv.org/abs/1901.01343)
 * [RGCN](https://arxiv.org/abs/1703.06103)
 * [Edge](https://arxiv.org/abs/1801.07829)
+* [GWNN](https://openreview.net/forum?id=H1ewdiR5tQ)
 * [PointNet](https://arxiv.org/abs/1612.00593)
 * [PointNet++](https://arxiv.org/abs/1706.02413)
 * [PointCNN](https://arxiv.org/abs/1801.07791)
@@ -61,6 +66,7 @@ Lists of awesome resources for geometric or topological neural network
 * [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434)
 * [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596)
 * [Neural 3D Mesh Renderer](https://arxiv.org/abs/1711.07566)
+* [Pixel2Mesh](https://arxiv.org/abs/1804.01654)
 * [NAS](https://arxiv.org/abs/1707.07012)
 * [PNAS](https://arxiv.org/abs/1712.00559)
 * [ENAS](https://arxiv.org/abs/1802.03268)
@@ -68,7 +74,16 @@ Lists of awesome resources for geometric or topological neural network
 * [NAONet](https://arxiv.org/abs/1808.07233)
 * [DARTS](https://arxiv.org/abs/1806.09055)
 * [GHN](https://arxiv.org/abs/1810.05749)
+* [A Differentiable Gaussian-like Distribution on Hyperbolic Space for Gradient-Based Learning](https://arxiv.org/abs/1902.02992)
 
+### related
+* [Graph Spectral Regularization for Neural Network Interpretability](https://arxiv.org/abs/1810.00424)
+* [On the Transferability of Spectral Graph Filters](https://arxiv.org/abs/1901.10524)
+
+## dataset
+* QM9  
+  [MoleculeNet: A Benchmark for Molecular Machine Learning](https://arxiv.org/abs/1703.00564)
+  [Neural Message Passing for Quantum Chemistry](https://arxiv.org/abs/1704.01212)
 ## experiments
 
 
@@ -77,13 +92,18 @@ Lists of awesome resources for geometric or topological neural network
 * neworkx
 * plyfile
 * rdflib
+* pygsp
 
+## others
+* [cytoscape](https://cytoscape.org/index.html)
+* [FBX](https://www.autodesk.com/products/fbx/overview)
 
 ## neuroscience
 * [Dale's principle](https://en.wikipedia.org/wiki/Dale%27s_principle)
 
 
 ## others
+* https://paperswithcode.com/area/graphs
 ### for Japanese
 * https://www.slideshare.net/shotarosano5/automl-in-neurips-2018
 * https://medium.com/programming-soda/graph-neural-network%E3%81%AE%E5%87%A6%E7%90%86%E3%81%A8%E5%8A%B9%E6%9E%9C%E3%82%92%E7%90%86%E8%A7%A3%E3%81%99%E3%82%8B-how-powerful-are-graph-neural-networks-a26ee9245cce 
