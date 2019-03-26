@@ -123,6 +123,8 @@ for Point Cloud Semantic Instance Segmentation](https://arxiv.org/abs/1902.05247
   [MoleculeNet: A Benchmark for Molecular Machine Learning](https://arxiv.org/abs/1703.00564)
   [Neural Message Passing for Quantum Chemistry](https://arxiv.org/abs/1704.01212)
 
+* [semanticscholar](http://labs.semanticscholar.org/corpus/)
+* [semanticscholar api](http://api.semanticscholar.org/)
 * [shibuya 3d](https://3dcel.com/study/case01/)
 ## experiments
 
