@@ -23,6 +23,9 @@ Lists of awesome resources for geometric or topological neural network
 * https://github.com/Eilene/GWNN
 * https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork
 * https://github.com/tkipf/gcn
+* https://github.com/charlesq34/pointnet
+* https://github.com/charlesq34/pointnet2
+* https://github.com/yewzijian/3DFeatNet
 
 ## automatic model
 * https://github.com/melodyguan/enas
@@ -81,7 +84,11 @@ Lists of awesome resources for geometric or topological neural network
 * [Submanifold Sparse Convolutional Networks](https://arxiv.org/abs/1706.01307)
 * [3D Graph Embedding Learning with a Structure-aware Loss Function
 for Point Cloud Semantic Instance Segmentation](https://arxiv.org/abs/1902.05247)
-
+* [Exploring Spatial Context for 3D Semantic Segmentation of Point Clouds](https://arxiv.org/abs/1802.01500)
+* [PCPNET](https://arxiv.org/abs/1710.04954)
+* [VoxelNet](https://arxiv.org/abs/1711.06396)
+* [Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/abs/1711.08488)
+*
 ### mesh
 * [Neural 3D Mesh Renderer](https://arxiv.org/abs/1711.07566)
 * [Pixel2Mesh](https://arxiv.org/abs/1804.01654)
@@ -126,10 +133,12 @@ for Point Cloud Semantic Instance Segmentation](https://arxiv.org/abs/1902.05247
 * plyfile
 * rdflib
 * pygsp
+* pydotplus
 
 ## others
 * [cytoscape](https://cytoscape.org/index.html)
 * [FBX](https://www.autodesk.com/products/fbx/overview)
+* graphviz
 
 ## neuroscience
 * [Dale's principle](https://en.wikipedia.org/wiki/Dale%27s_principle)
