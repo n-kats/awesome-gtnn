@@ -14,6 +14,7 @@ Lists of awesome resources for geometric or topological neural network
 ## neural network
 * https://github.com/deepmind/graph_nets
 * https://github.com/rusty1s/pytorch_geometric
+* https://github.com/facebookresearch/PyTorch-BigGraph
 * https://github.com/pfnet-research/chainer-chemistry
 * https://github.com/dmlc/dgl
 
@@ -26,6 +27,8 @@ Lists of awesome resources for geometric or topological neural network
 * https://github.com/charlesq34/pointnet
 * https://github.com/charlesq34/pointnet2
 * https://github.com/yewzijian/3DFeatNet
+* https://github.com/shaohua0116/Multiview2Novelview
+* https://github.com/rajammanabrolu/KG-DQN
 
 ## automatic model
 * https://github.com/melodyguan/enas
@@ -77,6 +80,9 @@ Lists of awesome resources for geometric or topological neural network
 * [GraphVAE](https://arxiv.org/abs/1802.03480)
 * [GenerativeGCN for growing graphs](https://arxiv.org/abs/1903.02640)
 
+### 3D-aware neural network
+* [HoloGAN](https://arxiv.org/abs/1904.01326)
+
 ### point cloud
 * [PointNet](https://arxiv.org/abs/1612.00593)
 * [PointNet++](https://arxiv.org/abs/1706.02413)
@@ -88,7 +94,7 @@ for Point Cloud Semantic Instance Segmentation](https://arxiv.org/abs/1902.05247
 * [PCPNET](https://arxiv.org/abs/1710.04954)
 * [VoxelNet](https://arxiv.org/abs/1711.06396)
 * [Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/abs/1711.08488)
-*
+
 ### mesh
 * [Neural 3D Mesh Renderer](https://arxiv.org/abs/1711.07566)
 * [Pixel2Mesh](https://arxiv.org/abs/1804.01654)
@@ -102,10 +108,11 @@ for Point Cloud Semantic Instance Segmentation](https://arxiv.org/abs/1902.05247
 * [DARTS](https://arxiv.org/abs/1806.09055)
 * [GHN](https://arxiv.org/abs/1810.05749)
 * [A Differentiable Gaussian-like Distribution on Hyperbolic Space for Gradient-Based Learning](https://arxiv.org/abs/1902.02992)
-
+* [Exploring Randomly Wired Neural Networks for Image Recognitio](https://arxiv.org/abs/1904.01569)
 
 ### TDA
 * [Beyond topological persistence: Starting from networks](https://arxiv.org/abs/1901.08051v1)
+* [Topological Persistence in Geometry and Analysis](https://arxiv.org/abs/1904.04044)
 
 ### path
 * [Extrapolating paths with graph neural networks](https://arxiv.org/abs/1903.07518)
@@ -117,6 +124,10 @@ for Point Cloud Semantic Instance Segmentation](https://arxiv.org/abs/1902.05247
 ### related
 * [Graph Spectral Regularization for Neural Network Interpretability](https://arxiv.org/abs/1810.00424)
 * [On the Transferability of Spectral Graph Filters](https://arxiv.org/abs/1901.10524)
+* [KG-DGN](https://arxiv.org/abs/1812.01628)
+* [Hyperbolic Disk Embeddings for Directed Acyclic Graphs](https://arxiv.org/abs/1902.04335)
+* [Graph cohomologies and rational homotopy type of configuration spaces](https://arxiv.org/abs/1904.01452)
+* [Topology and curvature of metric spaces](https://arxiv.org/abs/1904.00222)
 
 ## dataset
 * QM9  
@@ -149,6 +160,8 @@ for Point Cloud Semantic Instance Segmentation](https://arxiv.org/abs/1902.05247
 
 ## others
 * https://paperswithcode.com/area/graphs
+* https://ai.facebook.com/blog/open-sourcing-pytorch-biggraph-for-faster-embeddings-of-extremely-large-graphs
+*
 ### for Japanese
 * https://www.slideshare.net/shotarosano5/automl-in-neurips-2018
 * https://medium.com/programming-soda/graph-neural-network%E3%81%AE%E5%87%A6%E7%90%86%E3%81%A8%E5%8A%B9%E6%9E%9C%E3%82%92%E7%90%86%E8%A7%A3%E3%81%99%E3%82%8B-how-powerful-are-graph-neural-networks-a26ee9245cce 
