@@ -35,6 +35,9 @@ Lists of awesome resources for geometric or topological neural network
 * https://github.com/renqianluo/NAO
 * https://github.com/quark0/darts
 
+## depth
+* https://github.com/tinghuiz/SfMLearner
+
 ## papers
 ### survey
 * [Deep Learning on Graphs: A Survey](https://arxiv.org/abs/1812.04202)
@@ -73,7 +76,10 @@ Lists of awesome resources for geometric or topological neural network
 * [graph_nets](https://arxiv.org/abs/1806.01261)
 
 ### depth
+* [SfMLearner](https://arxiv.org/abs/1704.07813)
+* [vid2depth](https://arxiv.org/abs/1802.05522)
 * [struct2depth](https://arxiv.org/abs/1811.06152)
+* [Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras](https://arxiv.org/abs/1904.04998)
 
 ### generative model
 * [MolGAN](https://arxiv.org/abs/1805.11973)
