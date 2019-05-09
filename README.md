@@ -17,6 +17,7 @@ Lists of awesome resources for geometric or topological neural network
 * https://github.com/facebookresearch/PyTorch-BigGraph
 * https://github.com/pfnet-research/chainer-chemistry
 * https://github.com/dmlc/dgl
+* https://github.com/tensorflow/graphics
 
 ### others
 * https://github.com/matenure/FastGCN
