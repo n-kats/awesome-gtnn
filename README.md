@@ -175,3 +175,4 @@ for Point Cloud Semantic Instance Segmentation](https://arxiv.org/abs/1902.05247
 * https://qiita.com/no_more_syakai/items/f1358e33e8376ae1766d
 * https://www.slideshare.net/emakryo/neural-networks-for-graph-data-neurips2018pfn
 * https://speakerdeck.com/m_mochizuki/ai-drug-discovery-in-the-view-of-competitions 
+* https://speakerdeck.com/nnchiba/point-cloud-deep-learning-survey-ver-2
