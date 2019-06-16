@@ -39,6 +39,12 @@ Lists of awesome resources for geometric or topological neural network
 ## depth
 * https://github.com/tinghuiz/SfMLearner
 
+## TDA
+* https://github.com/Ripser/ripser
+
+## knowledge
+* https://github.com/EagleW/PaperRobot
+
 ## papers
 ### survey
 * [Deep Learning on Graphs: A Survey](https://arxiv.org/abs/1812.04202)
@@ -75,6 +81,7 @@ Lists of awesome resources for geometric or topological neural network
 * [TopKPooing](https://arxiv.org/abs/1811.01287)
 * [DeepGraphInfomax](https://arxiv.org/abs/1809.10341)
 * [graph_nets](https://arxiv.org/abs/1806.01261)
+* [simplfying GCN](https://arxiv.org/abs/1902.07153)
 
 ### depth
 * [SfMLearner](https://arxiv.org/abs/1704.07813)
@@ -120,6 +127,7 @@ for Point Cloud Semantic Instance Segmentation](https://arxiv.org/abs/1902.05247
 ### TDA
 * [Beyond topological persistence: Starting from networks](https://arxiv.org/abs/1901.08051v1)
 * [Topological Persistence in Geometry and Analysis](https://arxiv.org/abs/1904.04044)
+* [PersLay](https://arxiv.org/abs/1904.09378)
 
 ### path
 * [Extrapolating paths with graph neural networks](https://arxiv.org/abs/1903.07518)
@@ -127,6 +135,9 @@ for Point Cloud Semantic Instance Segmentation](https://arxiv.org/abs/1902.05247
 ### Applications
 * [Context-Aware Visual Compatibility Prediction](https://arxiv.org/abs/1902.03646)
 * [NetworkSemanticSegmentation w/ GitHub](https://arxiv.org/abs/1902.05220v1)
+
+### knowledge
+* [PaperRobot](https://arxiv.org/abs/1905.07870)
 
 ### related
 * [Graph Spectral Regularization for Neural Network Interpretability](https://arxiv.org/abs/1810.00424)
@@ -144,6 +155,7 @@ for Point Cloud Semantic Instance Segmentation](https://arxiv.org/abs/1902.05247
 * [semanticscholar](http://labs.semanticscholar.org/corpus/)
 * [semanticscholar api](http://api.semanticscholar.org/)
 * [shibuya 3d](https://3dcel.com/study/case01/)
+* [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/)
 
 ## experiments
 
@@ -154,6 +166,8 @@ for Point Cloud Semantic Instance Segmentation](https://arxiv.org/abs/1902.05247
 * rdflib
 * pygsp
 * pydotplus
+* graphviz
+* pygraphviz(require `apt install graphviz graphviz-dev`)
 
 ## others
 * [cytoscape](https://cytoscape.org/index.html)
@@ -164,10 +178,20 @@ for Point Cloud Semantic Instance Segmentation](https://arxiv.org/abs/1902.05247
 ## neuroscience
 * [Dale's principle](https://en.wikipedia.org/wiki/Dale%27s_principle)
 
+## TDA
+* Vietoris-Rips complex
+* prsistent homology
+* barcode
+* Taken's theorem
+* Janko Latschev's theorem
 
 ## others
 * https://paperswithcode.com/area/graphs
 * https://ai.facebook.com/blog/open-sourcing-pytorch-biggraph-for-faster-embeddings-of-extremely-large-graphs
+* https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html
+* https://jian-tang.com/files/AAAI19/aaai-grltutorial-part0-intro.pdf
+* http://i.stanford.edu/~jure/pub/talks2/graph_gen-iclr-may19-long.pdf
+* https://cs.stanford.edu/~jure/
 *
 ### for Japanese
 * https://www.slideshare.net/shotarosano5/automl-in-neurips-2018
@@ -176,3 +200,4 @@ for Point Cloud Semantic Instance Segmentation](https://arxiv.org/abs/1902.05247
 * https://www.slideshare.net/emakryo/neural-networks-for-graph-data-neurips2018pfn
 * https://speakerdeck.com/m_mochizuki/ai-drug-discovery-in-the-view-of-competitions 
 * https://speakerdeck.com/nnchiba/point-cloud-deep-learning-survey-ver-2
+* https://engineer.dena.jp/2019/06/cv-papers-19-3dvision.html
